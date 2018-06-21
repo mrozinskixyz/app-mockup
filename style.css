@@ -3,6 +3,12 @@
 Primary style
 
 -------------------------------- */
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+</style>
+
+
 *, *::after, *::before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -21,7 +27,7 @@ html * {
 body {
   font-size: 1.6rem;
   
-  font-family: "Roboto", sans-serif; //bitter , serif
+  font-family: "Roboto", sans-serif; 
   color: #a29cc2;
   background-color: #3d385a;
 }
