@@ -20,7 +20,8 @@ html * {
 
 body {
   font-size: 1.6rem;
-  font-family: "Bitter", serif;
+  // font-family: "Bitter", serif;
+  font-family: "Roboto", sans-serif;
   color: #a29cc2;
   background-color: #3d385a;
 }
