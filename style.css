@@ -27,9 +27,10 @@ html * {
 body {
   font-size: 1.6rem;
   font-family: 'Roboto', sans-serif;
-  color: #a29cc2;
-  background-color: #3d385a;
+  color: #41f4c4;       /* a29cc2 */
+  background-color: #fcfcfc;     /* 3d385a */
 }
+
 
 @media only screen and (min-width: 1170px) {
   body, html {
