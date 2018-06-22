@@ -27,7 +27,7 @@ html * {
 body {
   font-size: 1.6rem;
   font-family: 'Roboto', sans-serif;
-  color: #41f4c4;       /* a29cc2 */
+  color: #000;       /* a29cc2 */
   background-color: #fcfcfc;     /* 3d385a */
 }
 
